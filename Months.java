@@ -5,8 +5,8 @@ public class Mes{
 
         int numberTemp;
         System.out.println(menssage + " : ");
-        numeroTemp = scanner.nextInt();
-        return numeroTemp;
+        numberTemp = scanner.nextInt();
+        return numberTemp;
     }
 
     public static void main (String[] args){
